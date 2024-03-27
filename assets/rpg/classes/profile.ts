@@ -1,0 +1,4 @@
+class Profil {
+    name: string;
+}
+
